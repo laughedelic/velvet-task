@@ -12,6 +12,6 @@ bundleObjects := Seq(
 )
 
 libraryDependencies ++= Seq(
-  "ohnosequences" %% "velvet" % "0.1.1-SNAPSHOT"
+  "ohnosequences" %% "velvet" % "0.1.1"
 , "ohnosequences" %% "s3cmd" % "0.1.0"
 ) 
