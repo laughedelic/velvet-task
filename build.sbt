@@ -7,8 +7,8 @@ homepage := Some(url("https://github.com/ohnosequences/velvet-task"))
 licenses := Seq("AGPLv3" -> url("http://www.gnu.org/licenses/agpl-3.0.txt"))
 
 bundleObjects := Seq(
-  "ohnosequences.statika.VelvetTask"
-, "ohnosequences.statika.SpecialVelvet"
+  "team3.statika.VelvetTask"
+, "team3.statika.SpecialVelvet"
 )
 
 libraryDependencies ++= Seq(

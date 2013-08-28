@@ -1,4 +1,4 @@
-package ohnosequences.statika
+package team3.statika
 
 import ohnosequences.statika._
 import sys.process._
